@@ -1,6 +1,6 @@
 # AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 정민규
-- 리뷰어 : 최병훈.
+- 리뷰어 : 최병훈
 
 
 # PRT(Peer Review Template)
