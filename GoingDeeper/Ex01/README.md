@@ -1,12 +1,14 @@
 # AIFFEL Campus Online Code Peer Review Templete
-- 코더 : 코더의 이름을 작성하세요.
-- 리뷰어 : 리뷰어의 이름을 작성하세요.
-
+- 코더 : 정민규
+- 리뷰어 : 김도현
 
 # PRT(Peer Review Template)
 - [ ]  **1. 주어진 문제를 해결하는 완성된 코드가 제출되었나요?**
     - 문제에서 요구하는 최종 결과물이 첨부되었는지 확인
         - 중요! 해당 조건을 만족하는 부분을 캡쳐해 근거로 첨부
+
+<img width="700" height="440" alt="Image" src="https://github.com/user-attachments/assets/4af93005-3320-4e4a-b9ec-4bf5a6087ea9" />
+
     
 - [ ]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
 주석 또는 doc string을 보고 해당 코드가 잘 이해되었나요?**
@@ -15,6 +17,8 @@
     - 해당 코드의 기능, 존재 이유, 작동 원리 등을 기술했는지 확인
     - 주석을 보고 코드 이해가 잘 되었는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
+
+<img width="791" height="599" alt="Image" src="https://github.com/user-attachments/assets/d7a7fd5b-e7df-4484-9b29-646cf692cf68" />
         
 - [ ]  **3. 에러가 난 부분을 디버깅하여 문제를 해결한 기록을 남겼거나
 새로운 시도 또는 추가 실험을 수행해봤나요?**
@@ -22,12 +26,17 @@
     - 프로젝트 평가 기준에 더해 추가적으로 수행한 나만의 시도, 
     실험이 기록되어 있는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
+
+<img width="322" height="327" alt="Image" src="https://github.com/user-attachments/assets/1767ead0-dee2-44b8-933f-c595e1f79912" />
+<img width="309" height="352" alt="Image" src="https://github.com/user-attachments/assets/feaeeb9d-e68e-4cfc-ac4a-a095bbcba0af" />
         
 - [ ]  **4. 회고를 잘 작성했나요?**
     - 주어진 문제를 해결하는 완성된 코드 내지 프로젝트 결과물에 대해
     배운점과 아쉬운점, 느낀점 등이 기록되어 있는지 확인
     - 전체 코드 실행 플로우를 그래프로 그려서 이해를 돕고 있는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
+
+<img width="806" height="571" alt="Image" src="https://github.com/user-attachments/assets/eaaf0f5c-5ad6-4243-8ae9-c438abb73399" />
         
 - [ ]  **5. 코드가 간결하고 효율적인가요?**
     - 파이썬 스타일 가이드 (PEP8) 를 준수하였는지 확인
@@ -37,7 +46,7 @@
 
 # 회고(참고 링크 및 코드 개선)
 ```
-# 리뷰어의 회고를 작성합니다.
-# 코드 리뷰 시 참고한 링크가 있다면 링크와 간략한 설명을 첨부합니다.
-# 코드 리뷰를 통해 개선한 코드가 있다면 코드와 간략한 설명을 첨부합니다.
+커스텀한 ResNet50 모델을 생성해서 CAM과 grad-cam을 비교해서 잘 구성하신 점과 객체 위치를 정교하게 비교하는 과정이 인상적이었습니다.
+IoU threshold에 따른 바운딩 박스 사이의 결과를 통해서 고민 해볼만한 점도 잘 찾아주신 것 같습니다.  
+ 
 ```
